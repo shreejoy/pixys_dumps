@@ -1,0 +1,24 @@
+=================
+SOURCE CHANGELOGS
+=================
+
+1. Added 5 clock styles (from btlg)
+2. Added 2 new primary colours (ocean & oneplus dark)
+3. Added grid customisation in launcher
+4. Privacy indicator improvements
+5. Added a toggle to statusbar privacy indicator
+6. Added internal audio recording
+7. Added adaptive playback
+8. Hold QS setting icon for pixys settings
+9. Fixed less boring headsup
+10. Removed junky lockscreen animation
+11. Added lockscreen charging animation
+12. Fixed QS battery tile 
+13. Per app data restrictions
+14. Fixed settings avatar
+15. Many theming fixes and improvements
+16. Updated google sans font and set a default
+17. Added Flower icon shape from R DP4
+18. Toggle for QS edit icon avatar on QQS & QS
+19. Launcher: added kill action to recents popup
+20. Fixed wallpaper crash
