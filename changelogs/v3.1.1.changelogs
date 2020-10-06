@@ -1,0 +1,20 @@
+=================
+SOURCE CHANGELOGS
+=================
+
+1. July security patch.
+2. Disabled statusbar privacy indicator by default.
+3. Disabled R notification headers by default.
+4. Fixed wifi QS icon on filled icon pack.
+5. Updated some lockcreen clock layouts.
+6. Add toggle to hide power menu from lock screen.
+7. Dual channel bluetooth audio.
+8. Livedisplay support Added.
+9. Added touch hal support.
+10. Fixed QS date info.
+11. Added battery health.
+12. Import powerusagefeaturefactory from pixel.
+13. Added iconshapes from android R beta.
+14. Permissions: Stop auto-granting location to system browsers.
+15. Upstreamed FOD.
+16. Fixed qs footer warning.
