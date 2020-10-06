@@ -1,0 +1,19 @@
+=================
+SOURCE CHANGELOGS
+=================
+
+1. August Security Patch Merged
+2. Added Screen off torch gesture
+3. Added Applock Support to Launcher
+4. Added Launcher icon size customization
+5. Added Launcher uninstall shortcut
+6. Removed duplicate theme picker
+7. Fixes minor & improvements on the launcher
+8. Added daily/monthly data usage
+9. Added ios like clipboard warnings
+10. Added battery estimates in QS
+11. Added smart space (requires gugal app)
+12. Fixed broken cts for some devices
+13. Improved qs detail layout
+14. Fixed wifi tile issues on some styles
+15. Fixed page indicator padding
