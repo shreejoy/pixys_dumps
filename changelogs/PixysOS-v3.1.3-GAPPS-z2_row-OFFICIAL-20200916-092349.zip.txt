@@ -1,0 +1,31 @@
+====================
+    16.09.2020
+====================
+
+* Enable window rounded corner animations
+* Enabled Unspecialized App Process Pool
+* Added 24 bit audio for output 
+* Disable alpha compositing in WM
+* Disable SF backpressure
+* Remove surfaceflinger idle timer configuration
+* Disable VSync for CPU rendered apps
+* Disable usb debugging by default
+* Soundtrigger 2.2
+* Set lmkd configuration properties
+* Refined early phase offsets
+* Cleaned useless props , packages , double references
+* update Thermal from LA.UM.8.6.r1-04400-89xx.0
+* Improved app launching time
+* Smoother animations
+* Fixed occasional lags & janks
+* kernel : popthecorn v2.5
+* Kernel : merged 4.4.236
+* fixed notification light
+* fixed RGB led
+* Update bluetooth from LA.UM.8.6.r1-03400-89xx.0
+* Switched to qti Bluetooth stack
+* -> improved Bluetooth audio
+* Compile hwui for better performance
+* Added Camera HAL 1 support
+* -> fixed camera app lag on some 3rd party apps
+* Fixed audio recording in gcam
