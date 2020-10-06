@@ -1,0 +1,27 @@
+=================
+SOURCE CHANGELOGS
+=================
+
+1. January Security Patch Merged
+2. Added Gaming Mode
+3. Added bolt ⚡️ (Icon) while charging
+4. Added Full Screen Gesture(Hide Pil)
+5. Added Smart Notification Feature
+6. Added Status bar clock/date customizations
+7. Added Option to disable Lockscreen Media Art
+8. Added lock screen media artwork blur.
+9. Added Option to Unlock phone with fingerprint after reboot
+10. Added option to disable fingerprint authentication vibration
+11. Added Smart Pixel(Will show only for supported Devices)
+12. Added Option for incall vibrations.
+13. Improved the Brightness Slider (Now Brightness +/- will functional)
+14. Added Option to Vibrate while pressing Volume Button
+15. Added Music QS
+16. Added Aggressive Battery Options
+17. Added Missing QS rows and landscape rows config
+18. Added an option to change the device hostname
+19. FingerPrint On Display Implemented (Only for Supported Devices)
+20. Updated PixysOS Wallpaper
+21. Improved PixysOS Logo
+22. Improved PixysOS Volte Icon
+23. Improved From Source Side.
